@@ -51,12 +51,12 @@ defining a function:
 calling the function on two numbers:
 
 .. image:: docs/imgs/function_call.png
-   :alt: Calling WhizzML function
+   :alt: Calling a WhizzML function
    :align: center
 
 creating a source in BigML from some data:
 
-.. image:: docs/imgs/source_creation.jpg
+.. image:: docs/imgs/source_creation.png
    :alt: Creating a source with WhizzML
    :align: center
 

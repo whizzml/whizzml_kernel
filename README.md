@@ -9,7 +9,7 @@ Installation
 
 Node.js and npm are needed for the kernel to work
 properly. If you need information to install those, please refer to
-`https://docs.npmjs.com/downloading-and-installing-node-js-and-npm<https://docs.npmjs.com/downloading-and-installing-node-js-and-npm>`_. The rest of dependencies
+[https://docs.npmjs.com/downloading-and-installing-node-js-and-npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm). The rest of dependencies
 will automatically be installed when installing ``whizzml_kernel`` from PyPI::
 
     pip install whizzml_kernel
@@ -36,30 +36,24 @@ Using the WhizzML kernel
 **Console frontends**: To use it with the console frontends, add ``--kernel whizzml`` to
 their command line arguments.
 
-The goal of this kernel is providing a REPL to use `WhizzML<https://bigml.com/whizzml>`_.
+The goal of this kernel is providing a REPL to use [WhizzML](https://bigml.com/whizzml).
 As an example, you can try basic WhizzML operations, like defining a variable:
 
-.. image:: docs/imgs/variable_def.png
-   :alt: WhizzML variable definition
-   :align: center
+
+![WhizzML variable definition](docs/imgs/variable_def.png "WhizzML variable definition")
 
 defining a function:
 
-.. image:: docs/imgs/function_def.png
-   :alt: WhizzML function definition
-   :align: center
+![WhizzML function definition](docs/imgs/function_def.png "WhizzML function definition")
 
 calling the function on two numbers:
 
-.. image:: docs/imgs/function_call.png
-   :alt: Calling a WhizzML function
-   :align: center
+![Calling a WhizzML function](docs/imgs/function_call.png "Calling a WhizzML function")
 
 creating a source in BigML from some data:
 
-.. image:: docs/imgs/source_creation.png
-   :alt: Creating a source with WhizzML
-   :align: center
+![Creating a source with WhizzML](docs/imgs/source_creation.png "Creating a source with WhizzML")
+
 
 Summarizing and storing your WhizzML
 ------------------------------------

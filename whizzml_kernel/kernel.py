@@ -1,7 +1,8 @@
 # -*- coding: utf-8 -*-
 #!/usr/bin/env python
 #
-# Copyright 2022 BigML, Inc
+# SPDX-License-Identifier: BSD-3-Clause-Clear
+# Copyright (c) 2022 BigML, Inc
 #
 
 

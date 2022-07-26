@@ -42,19 +42,19 @@ The goal of this kernel is providing a REPL to use [WhizzML](https://bigml.com/w
 As an example, you can try basic WhizzML operations, like defining a variable:
 
 
-![WhizzML variable definition](https://github.com/mmerce/whizzml_kernel/raw/main/docs/imgs/variable_def.png "WhizzML variable definition")
+![WhizzML variable definition](https://github.com/whizzml/whizzml_kernel/raw/main/docs/imgs/variable_def.png "WhizzML variable definition")
 
 defining a function:
 
-![WhizzML function definition](https://github.com/mmerce/whizzml_kernel/raw/main/docs/imgs/function_def.png "WhizzML function definition")
+![WhizzML function definition](https://github.com/whizzml/whizzml_kernel/raw/main/docs/imgs/function_def.png "WhizzML function definition")
 
 calling the function on two numbers:
 
-![Calling a WhizzML function](https://github.com/mmerce/whizzml_kernel/raw/main/docs/imgs/function_call.png "Calling a WhizzML function")
+![Calling a WhizzML function](https://github.com/whizzml/whizzml_kernel/raw/main/docs/imgs/function_call.png "Calling a WhizzML function")
 
 creating a source in BigML from some data:
 
-![Creating a source with WhizzML](https://github.com/mmerce/whizzml_kernel/raw/main/docs/imgs/source_creation.png "Creating a source with WhizzML")
+![Creating a source with WhizzML](https://github.com/whizzml/whizzml_kernel/raw/main/docs/imgs/source_creation.png "Creating a source with WhizzML")
 
 
 Summarizing and storing your WhizzML

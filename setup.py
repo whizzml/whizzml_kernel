@@ -23,7 +23,7 @@ with open('README.md') as f:
 
 setup(
     name='whizzml_kernel',
-    version='0.1',
+    version='0.1.1',
     packages=['whizzml_kernel', 'whizzml', 'magics'],
     package_data={'whizzml':['whizzml_node.js']},
     description='Simple WhizzML kernel for Jupyter',

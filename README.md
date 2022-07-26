@@ -14,9 +14,9 @@ will automatically be installed when installing ``whizzml_kernel`` from PyPI::
 
 ```bash
     pip install whizzml_kernel
+    npm install xmlhttprequest
     python -m whizzml_kernel.install
 ```
-
 
 WhizzML credentials
 -------------------

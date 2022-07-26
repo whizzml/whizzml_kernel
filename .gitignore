@@ -3,3 +3,8 @@ __pycache__/
 /dist/
 /build/
 /MANIFEST
+node_modules/
+package-lock.json
+package.json
+*.ipynb
+.ipynb_checkpoints/

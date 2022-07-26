@@ -6,10 +6,11 @@ code in a Jupyter Notebook.
 
 Installation
 ------------
- ''
-Node.js and npm are needed for the install and development process to work
-properly. Detailed information for that can be found `here<https://docs.npmjs.com/downloading-and-installing-node-js-and-npm>`_. The rest of dependencies will automatically
-be installed when installing ``whizzml_kernel`` from PyPI::
+
+Node.js and npm are needed for the kernel to work
+properly. If you need information to install those, please refer to
+`https://docs.npmjs.com/downloading-and-installing-node-js-and-npm<https://docs.npmjs.com/downloading-and-installing-node-js-and-npm>`_. The rest of dependencies
+will automatically be installed when installing ``whizzml_kernel`` from PyPI::
 
     pip install whizzml_kernel
     python -m whizzml_kernel.install

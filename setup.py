@@ -9,14 +9,14 @@ import subprocess
 
 
 from setuptools import setup
-from setuptools.command.build import build
+from setuptools.command.install import install
 
 
-class NPMInstall(build):
+class NPMInstall(install):
 
     def run(self):
-        build.run(self)
         subprocess.check_output("npm install xmlhttprequest", shell=True)
+        install.run(self)
 
 with open('README.md') as f:
     readme = f.read()

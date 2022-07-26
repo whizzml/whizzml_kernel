@@ -8,8 +8,8 @@
 import subprocess
 
 
-from distutils.core import setup
-from distutils.command.build import build
+from setuptools import setup
+from setuptools.command.build import build
 
 
 class NPMInstall(build):
@@ -28,6 +28,7 @@ setup(
     package_data={'whizzml':['whizzml_node.js']},
     description='Simple WhizzML kernel for Jupyter',
     long_description=readme,
+    long_description_content_type='text/markdown',
     author='BigML Team',
     author_email='bindings@bigml.com',
     url='https://github.com/whizzml/whizzml_kernel',
